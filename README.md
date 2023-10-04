@@ -10,14 +10,15 @@ A documentação do Git e GitHub pode ser encontrada de forma simples clicando n
 ## Resumos dos principais comandos.
 
 ```
-
-
+mdkir resumos
 git innit
-
+git status
+git log
+git restore README.md
+git add .
+git commit -m"mensagem para lembrar das acoes"
 
 ```
-
-
 
 ## Autores
 
